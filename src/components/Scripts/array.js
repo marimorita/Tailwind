@@ -12,7 +12,7 @@ export const array = [{
     id:2,
     img: img2,
     date:'1970',
-    description: 'Queen es una banda británica de rock formada en 1970 en Londres, integrada originalmente por el cantante y pianista Freddie Mercury, el guitarrista Brian May, el baterista Roger Taylor y el bajista John Deacon'
+    description: 'Queen es una banda británica de rock formada en 1970 en Londres, integrada originalmente por el cantante y pianista Freddie Mercury, Brian May, Roger Taylor y John Deacon'
 }, {
     id:3,
     img: img3,
